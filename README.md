@@ -20,4 +20,4 @@ This is a very simple "Angular" project to help get you started.
 
 1. Run `npm i`
 
-1. Run `ng start`
+1. Run `npm start`
